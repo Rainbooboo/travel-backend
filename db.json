@@ -1,0 +1,14 @@
+{
+    "locations": [
+      { "id": 1, "geoId": "NYC", "name": "New York" },
+      { "id": 2, "geoId": "CHI", "name": "Chicago" },
+      { "id": 3, "geoId": "MIA", "name": "Miami" }
+    ],
+    "hotels": [
+      { "id": 1, "locationId": 1, "name": "Hotel Manhattan", "price": 200 },
+      { "id": 2, "locationId": 1, "name": "Central Park Hotel", "price": 300 },
+      { "id": 3, "locationId": 2, "name": "Windy City Inn", "price": 150 },
+      { "id": 4, "locationId": 3, "name": "Miami Beach Resort", "price": 250 }
+    ]
+  }
+  
