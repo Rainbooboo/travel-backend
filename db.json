@@ -117,7 +117,7 @@
         "city": "New York",
         "rating": 4.5,
         "description": "Luxurious accommodations with stunning views of the skyline, ideal for romantic getaways.",
-        "image": "https://example.com/images/hotel-manhattan.jpg",
+        "image": "",
         "grade": "LUXURY"
       },
       {
@@ -128,7 +128,7 @@
         "city": "New York",
         "rating": 4.2,
         "description": "A beautiful hotel a stone's throw from Central Park, combining comfort with convenience.",
-        "image": "https://example.com/images/central-park-hotel.jpg",
+        "image": "",
         "grade": "NATURE"
       },
       {
@@ -139,7 +139,7 @@
         "city": "Chicago",
         "rating": 3.8,
         "description": "Affordable lodging with a friendly atmosphere in the heart of Chicago.",
-        "image": "https://example.com/images/windy-city-inn.jpg",
+        "image": "",
         "grade": "BUDGET"
       },
       {
@@ -150,7 +150,7 @@
         "city": "Miami",
         "rating": 4.6,
         "description": "Enjoy beachfront living and vibrant nightlife in our stylish Miami resort.",
-        "image": "https://example.com/images/miami-beach-resort.jpg",
+        "image": "",
         "grade": "RELAX"
       },
       {
@@ -161,7 +161,7 @@
         "city": "New York",
         "rating": 4.0,
         "description": "Centrally located, this inn provides easy access to the excitement of Times Square.",
-        "image": "https://example.com/images/times-square-inn.jpg",
+        "image": "",
         "grade": "CITY"
       },
       {
@@ -172,7 +172,7 @@
         "city": "New York",
         "rating": 4.7,
         "description": "Luxury suites in the heart of the theater district, perfect for culture enthusiasts.",
-        "image": "https://example.com/images/broadway-suites.jpg",
+        "image": "",
         "grade": "CULTURAL"
       },
       {
@@ -183,7 +183,7 @@
         "city": "New York",
         "rating": 4.1,
         "description": "Experience unique NYC charm with modern comforts in this boutique hotel.",
-        "image": "https://example.com/images/nyc-boutique-hotel.jpg",
+        "image": "",
         "grade": "BOUTIQUE"
       },
       {
@@ -194,7 +194,7 @@
         "city": "Chicago",
         "rating": 3.8,
         "description": "Affordable lodging with a friendly atmosphere in the heart of Chicago.",
-        "image": "https://example.com/images/windy-city-inn.jpg",
+        "image": "",
         "grade": "BUDGET"
       },
       {
@@ -205,7 +205,7 @@
         "city": "Chicago",
         "rating": 4.0,
         "description": "Scenic lakeside views and comfortable rooms, a great destination for travelers.",
-        "image": "https://example.com/images/chicago-lakeshore-hotel.jpg",
+        "image": "",
         "grade": "NATURE"
       },
       {
@@ -216,7 +216,7 @@
         "city": "Chicago",
         "rating": 4.2,
         "description": "Located on the renowned Magnificent Mile, this hotel is perfect for shopping and dining enthusiasts.",
-        "image": "https://example.com/images/magnificent-mile-hotel.jpg",
+        "image": "",
         "grade": "CITY"
       },
       {
@@ -227,7 +227,7 @@
         "city": "Chicago",
         "rating": 4.4,
         "description": "Upscale amenities with breathtaking views from the iconic Willis Tower.",
-        "image": "https://example.com/images/willis-tower-suites.jpg",
+        "image": "",
         "grade": "LUXURY"
       },
       {
@@ -238,7 +238,7 @@
         "city": "Chicago",
         "rating": 4.1,
         "description": "Experience beautiful views of the Chicago River with this centrally located hotel.",
-        "image": "https://example.com/images/chicago-river-hotel.jpg",
+        "image": "",
         "grade": "NATURE"
       },
       {
@@ -249,7 +249,7 @@
         "city": "Miami",
         "rating": 4.6,
         "description": "Enjoy beachfront living and vibrant nightlife in our stylish Miami resort.",
-        "image": "https://example.com/images/miami-beach-resort.jpg",
+        "image": "",
         "grade": "RELAX"
       },
       {
@@ -260,7 +260,7 @@
         "city": "Miami",
         "rating": 4.5,
         "description": "Stylish accommodations with stunning ocean views on the famous Ocean Drive.",
-        "image": "https://example.com/images/ocean-drive-hotel.jpg",
+        "image": "",
         "grade": "LUXURY"
       },
       {
@@ -271,7 +271,7 @@
         "city": "Miami",
         "rating": 4.0,
         "description": "Immerse yourself in the local culture at this charming hotel near Little Havana.",
-        "image": "https://example.com/images/little-havana-hotel.jpg",
+        "image": "",
         "grade": "CULTURAL"
       },
       {
@@ -282,7 +282,7 @@
         "city": "Miami",
         "rating": 4.3,
         "description": "Luxurious suites just steps away from Miami's famous South Beach.",
-        "image": "https://example.com/images/south-beach-suites.jpg",
+        "image": "",
         "grade": "RELAX"
       },
       {
@@ -293,7 +293,7 @@
         "city": "Miami",
         "rating": 4.7,
         "description": "A vibrant luxury hotel in the heart of Miami's Brickell City Centre.",
-        "image": "https://example.com/images/w-miami.jpg",
+        "image": "",
         "grade": "NIGHTLIFE"
       },
       {
@@ -304,7 +304,7 @@
         "city": "Lagos",
         "rating": 4.4,
         "description": "Offering upscale luxury with stunning views of the Lagos skyline.",
-        "image": "https://example.com/images/eko-hotel-suites.jpg",
+        "image": "",
         "grade": "LUXURY"
       },
       {
@@ -315,7 +315,7 @@
         "city": "Lagos",
         "rating": 4.5,
         "description": "A luxurious hotel with a unique Asian influence, featuring exquisite dining and stunning decor.",
-        "image": "https://example.com/images/oriental-hotel.jpg",
+        "image": "",
         "grade": "LUXURY"
       },
       {
@@ -326,7 +326,7 @@
         "city": "Abuja",
         "rating": 4.2,
         "description": "A premier hotel offering top-notch luxury and comfort in the heart of Abuja.",
-        "image": "https://example.com/images/transcorp-hilton-abuja.jpg",
+        "image": "",
         "grade": "LUXURY"
       },
       {
@@ -337,7 +337,7 @@
         "city": "Abuja",
         "rating": 4.1,
         "description": "Elegantly designed accommodations in a serene environment, ideal for business and leisure.",
-        "image": "https://example.com/images/sheraton-abuja-hotel.jpg",
+        "image": "",
         "grade": "BUSINESS"
       },
       {
@@ -348,7 +348,7 @@
         "city": "Abuja",
         "rating": 3.9,
         "description": "Comfortable and affordable rooms close to city attractions and amenities.",
-        "image": "https://example.com/images/eagle-square-hotel.jpg",
+        "image": "",
         "grade": "BUDGET"
       },
       {
@@ -359,7 +359,7 @@
         "city": "Abuja",
         "rating": 4.0,
         "description": "A cozy hotel providing a warm atmosphere with personalized service and local flair.",
-        "image": "https://example.com/images/nordic-villa.jpg",
+        "image": "",
         "grade": "LOCAL"
       },
       {
@@ -370,7 +370,7 @@
         "city": "Abuja",
         "rating": 4.1,
         "description": "Modern hotel accommodations with world-class amenities for discerning travelers.",
-        "image": "https://example.com/images/envoy-hotel.jpg",
+        "image": "",
         "grade": "LUXURY"
       },
       {
@@ -381,7 +381,7 @@
         "city": "Abuja",
         "rating": 3.8,
         "description": "A budget-friendly option with comfortable rooms and friendly service.",
-        "image": "https://example.com/images/valencia-hotel.jpg",
+        "image": "",
         "grade": "BUDGET"
       },
       {
@@ -392,7 +392,7 @@
         "city": "Abuja",
         "rating": 3.7,
         "description": "A vibrant hotel experience with modern amenities and a lively atmosphere.",
-        "image": "https://example.com/images/bon-hotels-abuja.jpg",
+        "image": "",
         "grade": "BUDGET"
       },
       {
@@ -403,7 +403,7 @@
         "city": "Lagos",
         "rating": 4.3,
         "description": "A modern waterfront hotel providing luxury accommodations and outstanding service.",
-        "image": "https://example.com/images/radisson-blu-anchorage-hotel.jpg",
+        "image": "",
         "grade": "LUXURY"
       },
       {
@@ -414,7 +414,7 @@
         "city": "Lagos",
         "rating": 4.1,
         "description": "Elegant hotel offering comfort and convenience in the heart of Lagos.",
-        "image": "https://example.com/images/victoria-crown-plaza-hotel.jpg",
+        "image": "",
         "grade": "BUSINESS"
       },
       {
@@ -425,7 +425,7 @@
         "city": "Lagos",
         "rating": 4.5,
         "description": "A luxurious hotel known for its stylish decor and exceptional dining experiences.",
-        "image": "https://example.com/images/the-wheatbaker.jpg",
+        "image": "",
         "grade": "LUXURY"
       },
       {
@@ -436,7 +436,7 @@
         "city": "Lagos",
         "rating": 4.0,
         "description": "A well-known hotel with a range of amenities, perfect for both business and leisure travelers.",
-        "image": "https://example.com/images/eko-hotel-suites.jpg",
+        "image": "",
         "grade": "LOCAL"
       },
       {
@@ -447,7 +447,7 @@
         "city": "Lagos",
         "rating": 4.3,
         "description": "Modern accommodations with convenient access to the city’s attractions and businesses.",
-        "image": "https://example.com/images/four-points-by-sheraton-lagos.jpg",
+        "image": "",
         "grade": "CITY"
       }
     ]
