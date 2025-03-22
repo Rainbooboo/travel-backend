@@ -159,7 +159,7 @@
         "name": "Times Square Inn",
         "price": 250,
         "city": "New York",
-        "rating": 4.0,
+        "rating": 3.0,
         "description": "Centrally located, this inn provides easy access to the excitement of Times Square.",
         "image": "",
         "grade": "CITY"
@@ -181,7 +181,7 @@
         "name": "NYC Boutique Hotel",
         "price": 280,
         "city": "New York",
-        "rating": 4.1,
+        "rating": 2.1,
         "description": "Experience unique NYC charm with modern comforts in this boutique hotel.",
         "image": "",
         "grade": "BOUTIQUE"
@@ -192,7 +192,7 @@
         "name": "Windy City Inn",
         "price": 150,
         "city": "Chicago",
-        "rating": 3.8,
+        "rating": 3,
         "description": "Affordable lodging with a friendly atmosphere in the heart of Chicago.",
         "image": "",
         "grade": "BUDGET"
@@ -236,7 +236,7 @@
         "name": "Chicago River Hotel",
         "price": 250,
         "city": "Chicago",
-        "rating": 4.1,
+        "rating": 1,
         "description": "Experience beautiful views of the Chicago River with this centrally located hotel.",
         "image": "",
         "grade": "NATURE"
